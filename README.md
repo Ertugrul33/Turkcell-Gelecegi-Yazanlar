@@ -15,4 +15,5 @@
 - Veri Bilimi için İstatistik
 - Makine Öğrenmesi
   * 101
-  * 201  
+  * 201
+  * 301
